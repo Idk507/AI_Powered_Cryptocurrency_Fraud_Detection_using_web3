@@ -1,0 +1,1 @@
+pandas numpy scikit-learn joblib web3 plotly dash dash-bootstrap-components networkx matplotlib pillow google-generativeai
